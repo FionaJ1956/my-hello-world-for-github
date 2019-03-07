@@ -1,3 +1,3 @@
 # my-hello-world-for-github
-#initial program traditionally writting by students of any development language
-#I am studying python 3
+#initial program traditionally written by students of any development language
+#i am studying python 3
